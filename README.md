@@ -18,5 +18,5 @@ Please feel to try !
 
 Utsav Popli
 =======
-Jqplot with According, showing multiple graphs on a single page. 
+Jqplot with Accordion, showing multiple graphs on a single page. 
 
