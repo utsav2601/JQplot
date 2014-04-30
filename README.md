@@ -10,7 +10,7 @@ The File chart.js contains the code of 3 different graphs. jqplot.html is the ht
 
 
 jquery.html uses the accordion ui for collapsible content. 
-According then replots the graph depending upon the index of the <h3> tag selected. 
+Accordion then replots the graph depending upon the index of the <h3> tag selected. 
 
 Please feel to try ! 
 
@@ -19,4 +19,4 @@ Please feel to try !
 Utsav Popli
 =======
 Jqplot with According, showing multiple graphs on a single page. 
->>>>>>> f02e5cba8d8c3b2752e6958a50373567ec3f6ca9
+
