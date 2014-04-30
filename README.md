@@ -1,6 +1,7 @@
 JQplot
 ======
 
+<<<<<<< HEAD
 //@author: Utsav Popli
 
 Jqplot with According, showing multiple graphs on a single page. 
@@ -16,3 +17,6 @@ Please feel to try !
 
 
 Utsav Popli
+=======
+Jqplot with According, showing multiple graphs on a single page. 
+>>>>>>> f02e5cba8d8c3b2752e6958a50373567ec3f6ca9
